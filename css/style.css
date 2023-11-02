@@ -1109,7 +1109,7 @@ a:focus {
 
 .team .team-img {
     position: relative;
-    width: 50%;
+    width: 45%;
     overflow: hidden;
 }
 
@@ -1121,7 +1121,7 @@ a:focus {
 
 .team .team-text {
     position: relative;
-    width: 0%;
+    width: 100%;
     padding: 0 30px;
 }
 
@@ -1188,7 +1188,7 @@ a:focus {
 
 @media(max-width: 575.98px) {
     .team .team-text {
-        padding: 0 15px;
+        padding: 0 10px;
     }
 
     .team .team-text h2 {
